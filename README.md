@@ -4,4 +4,3 @@ practice using github with a tutorial
 change was made using notepad :)
 
 2nd change
-3rd change
